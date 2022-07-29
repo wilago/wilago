@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wilson Lasso</h1>
-<img src="https://user-images.githubusercontent.com/94970159/165605188-7bb81344-a1ae-4c2a-a992-a3e9ab8666e3.svg" width="300" align='right'>
+<img src="https://user-images.githubusercontent.com/27816405/181679039-30e72b78-810f-4161-a9f5-42f8bac3704b.png" width="300" align='right'>
 
-
-
-###  A little more about me...  
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
 ```javascript
 const Valentina = 
@@ -20,10 +18,8 @@ const Valentina =
     architecture: ["Single page applications"],
 }
 ```
-![image](https://user-images.githubusercontent.com/27816405/181678669-af729f6c-6af6-4ceb-a784-173f2bbfec31.png)
-
 <p align="left">
-<a href="mailto:wilago1979@gmail.com" target="blank"><img align="center" alt="Email" src="(https://user-images.githubusercontent.com/27816405/181678669-af729f6c-6af6-4ceb-a784-173f2bbfec31.png" height="25" width="35" ></a>
+<a href="mailto:wilago1979@gmail.com" target="blank"><img align="center" alt="Email" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png" height="25" width="35" ></a>
 <a href="https://www.linkedin.com/in/wilson-lasso-gomez-8258a8171/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Wilson Lasso" height="30" width="40" /></a>
 </p>
 <br>
@@ -51,6 +47,3 @@ const Valentina =
 <img src="https://img.shields.io/badge/linux-000000.svg?style=for-the-badge&logo=linux&labelColor=ffffff&logoColor=000000" alt="ubuntu">
 </a>
 </p><br>
-
-
-
