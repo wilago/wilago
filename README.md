@@ -2,13 +2,8 @@
 
 `línea de código`
 
-```php
-<?php
-  echo "fragmento largo de código";
-?>
-```
-
-const WilsonLassoGomez = 
+```js
+onst WilsonLassoGomez = 
     askMeAbout: ["app dev", "web dev"],
     technologies:{
         frontEnd: {
@@ -20,6 +15,9 @@ const WilsonLassoGomez =
     },
     architecture: ["Single page applications"],
 }
+```
+
+
 
 <!--
 **wilago/wilago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
