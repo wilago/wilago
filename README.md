@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Wilson Lasso</h1>
 <img src="https://user-images.githubusercontent.com/27816405/181679039-30e72b78-810f-4161-a9f5-42f8bac3704b.png" width="300" align='right'>
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+### A little more about me...  
 
 ```javascript
 const Valentina = 
