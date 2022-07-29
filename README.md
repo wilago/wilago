@@ -1,62 +1,55 @@
-### Hi 👋, I'm Wilson Lasso
+<h1 align="center">Hi 👋, I'm Wilson Lasso</h1>
+<img src="https://user-images.githubusercontent.com/94970159/165605188-7bb81344-a1ae-4c2a-a992-a3e9ab8666e3.svg" width="300" align='right'>
 
-![image](https://user-images.githubusercontent.com/27816405/181675303-e7afe257-6b87-44d1-ad91-fb25d4b0ca0c.png)
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
 
-`A little more about me...`
 
-```js
-const WilsonLassoGomez = 
+<h1 align="center">Hi 👋, I'm Wilson Lasso</h1>
+<img src="https://user-images.githubusercontent.com/94970159/165605188-7bb81344-a1ae-4c2a-a992-a3e9ab8666e3.svg" width="300" align='right'>
+
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
+
+```javascript
+const Valentina = 
     askMeAbout: ["app dev", "web dev"],
     technologies:{
         frontEnd: {
-            js: [ "Php", "Angular", "IONIC","Basic Laravel" "Soon React"],
+            js: [  "Angular","Soon React",],
             css: ["css"]
         },
         backEnd: ["Soon nodejs", "Soon express"],
-        database: ["Soon mongo","mySql"]
+        database: [" Soon mongo","mySql", "mariadb"]
+        others: [" Php","Laravel", "IONIC"]
     },
     architecture: ["Single page applications"],
 }
 ```
-
-##### FrontEnd Development
-
-<p align="left>
-<a href="https://angular.io" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="angularjs" width="65" height="65"/> </a>
- <a href="https://getbootstrap.com" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="bootstrap" width="65" height="65"/> </a> 
-<a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css3" width="65" height="65"/> </a>
- 
+<p align="left">
+<a href="mailto:wilago1979@gmail.com" target="blank"><img align="center" alt="Email" src="https://user-images.githubusercontent.com/5141132/50740364-7ea80880-1217-11e9-8faf-2348e31beedd.png" height="25" width="35" ></a>
+<a href="https://www.linkedin.com/in/wilson-lasso-gomez-8258a8171/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Wilson Lasso" height="30" width="40" /></a>
 </p>
+<br>
 
+<p align="center">					    
+<a href="https://github.com/wilago"><img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=ffffff" alt="react"></a>
+<a href="https://github.com/wilago"><img src="https://img.shields.io/badge/angular-red.svg?style=for-the-badge&logo=angular&logoColor=red&labelColor=ffffff" alt="angular"></a>
+</p><br>
 
-##### Database
-<p align="left"> 
-<a href="https://www.mongodb.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="65" height="65"/> </a>
-<a href="https://www.mysql.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="65" height="65"/> </a> 
- </p>
+<p align="center">
+ <a href="https://github.com/wilago"><img src="https://img.shields.io/badge/mongodb-589636.svg?style=for-the-badge&logo=mongodb&logoColor=589636&labelColor=ffffff" alt="postgresql"></a>
+<a href="https://github.com/wilago"><img src="https://img.shields.io/badge/mysql-3aabe8.svg?style=for-the-badge&logo=mysql&logoColor=3aabe8&labelColor=ffffff" alt="mysql"></a>
+<a href="https://github.com/wilago"><img src="https://img.shields.io/badge/sqlite-1daede.svg?style=for-the-badge&logo=sqlite&logoColor=1daede&labelColor=ffffff" alt="sqlite"></a>
+</p><br>
 
+<p align="center">
+<a href="https://github.com/wilago">
+<img src="https://img.shields.io/badge/vscode-blue.svg?style=for-the-badge&logo=visual-studio-code&labelColor=ffffff&logoColor=blue" alt="vscode">
+</a>
+</p><br>
 
-##### Others
- <p align="left"> 
-<a href="https://php.org/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="firebase" width="65" height="65"/> </a>
- <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="65" height="65"/> </a>
-<a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="65" height="65"/> </a>
-<a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="65" height="65"/>  </a>
-</p>
-
-
-
-<!--
-**wilago/wilago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+<a href="https://github.com/wilago"><img src="https://img.shields.io/badge/windows-3795fa.svg?style=for-the-badge&logo=windows&logoColor=3795fa&labelColor=ffffff" alt="windows"></a>
+  <a href="https://github.com/wilago">
+<img src="https://img.shields.io/badge/linux-000000.svg?style=for-the-badge&logo=linux&labelColor=ffffff&logoColor=000000" alt="ubuntu">
+</a>
+</p><br>
