@@ -4,7 +4,7 @@
 ### A little more about me...  
 
 ```javascript
-const Valentina = 
+const WilsonLassoGomez = 
     askMeAbout: ["app dev", "web dev"],
     technologies:{
         frontEnd: {
