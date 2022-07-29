@@ -1,4 +1,17 @@
-### Hi there 👋
+### Hi 👋, I'm Wilson Lasso
+
+const WilsonLassoGomez = 
+    askMeAbout: ["app dev", "web dev"],
+    technologies:{
+        frontEnd: {
+            js: [ "Php", "Angular", "IONIC","Basic Laravel" "Soon React"],
+            css: ["css"]
+        },
+        backEnd: ["Soon nodejs", "Soon express"],
+        database: ["Soon mongo","mySql"]
+    },
+    architecture: ["Single page applications"],
+}
 
 <!--
 **wilago/wilago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
