@@ -1,9 +1,9 @@
 ### Hi 👋, I'm Wilson Lasso
-
-`línea de código`
+![foto de cabecera](https://cdn.pixabay.com/photo/2017/03/18/01/07/willow-catkin-2152984_960_720.jpg)
+`A little more about me...`
 
 ```js
-onst WilsonLassoGomez = 
+const WilsonLassoGomez = 
     askMeAbout: ["app dev", "web dev"],
     technologies:{
         frontEnd: {
