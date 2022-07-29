@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Wilson Lasso</h1>
-<img src="https://user-images.githubusercontent.com/27816405/181679039-30e72b78-810f-4161-a9f5-42f8bac3704b.png" width="300" align='right'>
+<img src="https://user-images.githubusercontent.com/27816405/181680060-414e9749-f87f-4346-a829-758d772a1b75.png" width="250" align='right'>
 
 ### A little more about me...  
 
