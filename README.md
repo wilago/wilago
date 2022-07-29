@@ -1,5 +1,13 @@
 ### Hi 👋, I'm Wilson Lasso
 
+`línea de código`
+
+```php
+<?php
+  echo "fragmento largo de código";
+?>
+```
+
 const WilsonLassoGomez = 
     askMeAbout: ["app dev", "web dev"],
     technologies:{
