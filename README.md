@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Wilson Lasso</h1>
-<img src="https://user-images.githubusercontent.com/27816405/181680060-414e9749-f87f-4346-a829-758d772a1b75.png" width="250" align='right'>
+<!--<img src="https://user-images.githubusercontent.com/27816405/181680060-414e9749-f87f-4346-a829-758d772a1b75.png" width="250" align='right'> -->
+<img src="https://github.com/wilago/wilago/assets/27816405/69658126-e476-4e1f-bec6-d145698f9403" width="250" align='right'>
 
 ### A little more about me...  
 
