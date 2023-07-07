@@ -9,7 +9,7 @@ const WilsonLassoGomez =
     askMeAbout: ["app dev", "web dev"],
     technologies:{
         frontEnd: {
-            js: [  "Angular","Soon React",],
+            js: [  "Angular"],
             css: ["css"]
         },
         backEnd: ["Soon nodejs", "Soon express"],
@@ -26,7 +26,6 @@ const WilsonLassoGomez =
 <br>
 
 <p align="center">					    
-<a href="https://github.com/wilago"><img src="https://img.shields.io/badge/react-61DAFB.svg?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=ffffff" alt="react"></a>
 <a href="https://github.com/wilago"><img src="https://img.shields.io/badge/angular-red.svg?style=for-the-badge&logo=angular&logoColor=red&labelColor=ffffff" alt="angular"></a>
 </p><br>
 
